@@ -28,7 +28,7 @@ ScrollReveal().reveal('.toTopHero_1',{
 //for section_2
 ScrollReveal().reveal('.toTopSection_2',{
     duration : 1200,
-    delay : 1200,
+    delay : 1000,
     interval :70,
     origin : 'bottom',
     distance: '50px'
